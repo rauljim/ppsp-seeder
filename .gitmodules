@@ -1,0 +1,3 @@
+[submodule "libswift"]
+	path = libswift
+	url = git://github.com/triblerteam/libswift.git
