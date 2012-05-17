@@ -1,3 +1,6 @@
 [submodule "libswift"]
 	path = libswift
 	url = git://github.com/triblerteam/libswift.git
+[submodule "pymdht"]
+	path = pymdht
+	url = git://github.com/rauljim/pymdht.git
