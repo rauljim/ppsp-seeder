@@ -7,6 +7,7 @@ Installing libevent
 
 wget https://github.com/downloads/libevent/libevent/libevent-2.0.18-stable.tar.gz
 tar -xaf libevent-2.0.18-stable.tar.gz 
+cd libevent-2*
 ./configure
 make
 sudo make install
